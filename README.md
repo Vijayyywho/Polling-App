@@ -30,6 +30,7 @@ A simple polling app where users can **create polls, vote on polls, and see real
 git clone https://github.com/your-username/quick-polling-app.git
 cd quick-polling-app
 ```
+<<<<<<< HEAD
 
 2️⃣
 # Install frontend dependencies
@@ -50,3 +51,5 @@ npm run dev
 # Start frontend
 cd frontend
 npm run dev
+=======
+>>>>>>> 1d21fda (add)
